@@ -1,5 +1,6 @@
 # target-password-generate
 Video: https://www.youtube.com/watch?v=oJGeka4kNjA
+
 Sosyal mühendislik ile toplanan verileri şifreye dönüştürme!
 1. Hedefin sevdiği kelimeleri girin.
 2. Hedefin sevdiği sayıları girin.
